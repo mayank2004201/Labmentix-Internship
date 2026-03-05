@@ -148,26 +148,6 @@ Streamlit
 
 ---
 
-# Repository Structure
-
-```
-Labmentix-Internship
-│
-├── Glassdoor_Project
-│
-├── Paisabazaar_Project
-│
-├── Brain_Tumor_MRI_Classification
-│
-├── Streamlit_Demo
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # How to Run the Project
 
 Clone the repository
